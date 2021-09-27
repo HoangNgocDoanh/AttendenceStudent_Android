@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407480664130",
+    "project_id": "fbforgetpass",
+    "storage_bucket": "fbforgetpass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407480664130:android:f5bfb5bb1c7e9ad082eddb",
+        "android_client_info": {
+          "package_name": "com.spkt.app_student_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407480664130-e9352dlu97ogkgui2tj8l8m408erk3t0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spkt.app_student_attendance",
+            "certificate_hash": "fd5846e0222d9739343926392493dbf02a39c898"
+          }
+        },
+        {
+          "client_id": "407480664130-t26confj15c72b0477rfufn4hhjha4pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDYggXxhF91qvsyntyFc_Mc24Cfj8822o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407480664130-t26confj15c72b0477rfufn4hhjha4pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
